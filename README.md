@@ -14,6 +14,6 @@ testflight.apple.com/join/2tPpbBwX
 
 ![screenshot 1](https://github.com/ngwattcos/spectral-rts/blob/main/IMG-8562.PNG?raw=true)
 
-![screenshot 1](https://github.com/ngwattcos/spectral-rts/blob/main/IMG-8653.PNG?raw=true)
+![screenshot 1](https://github.com/ngwattcos/spectral-rts/blob/main/IMG-8654.PNG?raw=true)
 
 ![screenshot 1](https://github.com/ngwattcos/spectral-rts/blob/main/IMG-8561.PNG?raw=true)
