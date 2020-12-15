@@ -1,7 +1,10 @@
 # spectral-rts
-A shameless way to show off Enigma Studios's Spectral iOS RTS Game (without making the game repo public)
+A public repo to show off Enigma Studios's Spectral iOS RTS Game (without making the game repo public)
 
+## Video
+[Watch Our 2020 BostonFIG Video](https://youtu.be/6d5gmiJoNtA)
 
+## Screenshots
 
 ![screenshot 1](https://github.com/ngwattcos/spectral-rts/blob/main/IMG-7223.PNG?raw=true)
 
