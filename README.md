@@ -5,6 +5,8 @@ A public repo to show off Enigma Studios's Spectral iOS RTS Game (without making
 ### Testflight
 testflight.apple.com/join/2tPpbBwX
 
+### Link Tree
+https://linktr.ee/enigmastudios
 
 ## Video
 [Watch Our 2020 BostonFIG Video](https://youtu.be/6d5gmiJoNtA)
